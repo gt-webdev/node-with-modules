@@ -3,7 +3,7 @@ node-with-modules
 
 Accompanying code for our meeting from January 22nd.
 
-[the slides from the meeting can be found be following this link](https://docs.google.com/presentation/d/1QBogTYhPKY9p5iMA2J6pUDBv-he4X0UCNVtzdSAG194/edit?usp=sharing)
+[the slides from the meeting can be found be following this link](https://docs.google.com/presentation/d/1aUshGv8yxDaGMGfoSPhHQUtpVBJzOCzs5kEDq_Mh5pM/edit?usp=sharing)
 
 In order to run the examples you'll need to have node and npm installed (npm almost always 
 installs with node by default). Node can be obtained from [http://nodejs.org/](http://nodejs.org/).
